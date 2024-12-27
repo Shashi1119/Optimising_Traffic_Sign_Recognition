@@ -1,5 +1,3 @@
-# AIM-5007-1_NN_DL
-
 # Optimizing Traffic Sign Recognition: Custom CNN vs. Pretrained Models
 
 This project investigates the effectiveness of custom Convolutional Neural Networks (CNNs) compared to pretrained models for traffic sign recognition. The goal is to improve the accuracy and reliability of traffic sign detection systems, which are critical for autonomous vehicle safety.
