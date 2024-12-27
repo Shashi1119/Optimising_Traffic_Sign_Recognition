@@ -93,8 +93,9 @@ Our research benchmarks a custom CNN model against widely used pretrained archit
 
 ## Contributors
 
-- **Onkar Kunte** (Yeshiva University) - [okunte@mail.yu.edu](mailto:okunte@mail.yu.edu)  
 - **Shashidhar Reddy** (Yeshiva University) - [sainala@mail.yu.edu](mailto:sainala@mail.yu.edu)
+- **Onkar Kunte** (Yeshiva University) - [okunte@mail.yu.edu](mailto:okunte@mail.yu.edu)  
+
 
 ---
 
